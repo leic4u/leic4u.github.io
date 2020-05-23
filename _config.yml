@@ -153,7 +153,7 @@ pageview:
   leancloud:
     app_id    : s4kCS69Fq2r1DGq2RgmxbeWm-MdYXbMMI # LeanCloud App id
     app_key   : wdYjAJXk7oebwG6gBtB6yHVL # LeanCloud App key
-    app_class : blogpageview # LeanCloud App class
+    app_class : counter # LeanCloud App class
 
 
 ## => Search
@@ -173,7 +173,7 @@ analytics:
 
   ## Google Analytics
   google:
-    tracking_id : G-ELTDVX9PBE # Google Analytics id for the site
+    tracking_id : UA-167414016-1 # Google Analytics id for the site
     anonymize_ip: true # Anonymize IP tracking for Analytics
 
 
